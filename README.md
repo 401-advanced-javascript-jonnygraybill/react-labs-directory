@@ -7,12 +7,10 @@
   * [To Do](https://codesandbox.io/s/lab-33-todo-gh5ic)
   
 * Lab 34
-  * [Practice]()
-  * [To Do]()
+  * [To Do](https://codesandbox.io/s/lab-class-34-todo-hedy1)
   
 * Lab 36
-  * [Practice]()
-  * [To Do]()
+  * [Practice](https://codesandbox.io/s/lab-36-practice-wi466)
   
 * Lab 37
   * [Practice](https://codesandbox.io/s/lab-37-practice-5n32e)
